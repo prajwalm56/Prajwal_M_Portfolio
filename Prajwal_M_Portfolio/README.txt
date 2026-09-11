@@ -1,4 +1,4 @@
-PRAJWAL M — ORGANIZED PORTFOLIO SOURCE
+PRAJWAL M 
 
 PROJECT STRUCTURE
 
@@ -15,16 +15,3 @@ prajwal-pleurat-organized/
 ├── Prajwal_M_Resume.docx      Downloadable résumé
 ├── ANALYSIS.txt               Reference-site analysis
 └── README.txt                 This guide
-
-EDITING
-- Change page text and sections in index.html.
-- Change colors, spacing, layouts and animations in styles.css.
-- Change interaction behavior and project-modal data in script.js.
-- Keep all files and the assets folder together.
-
-PUBLISHING
-Netlify: extract the ZIP and drag this folder to https://app.netlify.com/drop
-GitHub Pages: upload the folder contents to a repository and enable Pages.
-Vercel: import the repository at https://vercel.com/new
-
-No build step or package installation is required.
