@@ -2,7 +2,7 @@ PRAJWAL M
 
 PROJECT STRUCTURE
 
-prajwal-pleurat-organized/
+prajwal_M_Portfolio/
 ├── index.html                 Semantic page structure and content
 ├── styles.css                 Layout, themes, responsive design and transitions
 ├── script.js                  Loader, theme, terminal, modal and navigation logic
