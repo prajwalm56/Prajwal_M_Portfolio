@@ -1,0 +1,36 @@
+PLEURAT.COM — REFERENCE ANALYSIS
+
+OBSERVED STRUCTURE
+- Compact floating navigation with Welcome, Work, AI, Profile and Contact destinations.
+- Hero focused on a direct product-design statement, short proof line and two calls to action.
+- A simulated live workspace combining a side rail, dashboard, AI chat/console and status details.
+- Selected work presented as product/app surfaces rather than traditional resume cards.
+- Separate AI section framed as a running build log.
+- Work-history list, profile narrative and utility-focused footer.
+
+VISUAL LANGUAGE
+- Dark-first interface with an optional light theme.
+- Deep navy canvas, subtle blue borders, soft panel elevation and a single green live-status accent.
+- Product-UI density inside large areas of calm negative space.
+- Rounded floating navigation, compact metadata, oversized editorial headings and monospaced system details.
+- Interface-in-interface composition: the portfolio behaves like a product workspace.
+
+MOTION AND INTERACTION MODEL ADAPTED
+- Branded loading sequence with progress counter and masked exit.
+- Staggered hero text entrance and portrait-card arrival.
+- Floating status labels around the portrait.
+- Scroll-triggered content reveals and global progress line.
+- Hover elevation, media zoom and custom context cursor.
+- Functional dark/light theme persistence.
+- Command palette opened by button or Ctrl/Cmd + K.
+- Interactive terminal commands: help, work, stack, contact and clear.
+- Switchable workspace navigation state.
+- Animated dashboard bars and continuously floating portrait labels.
+- Clickable project cards with responsive case-study modal.
+- Escape-to-close and click-outside overlay behavior.
+- Sticky AI introduction with sequential experiment rows.
+- Responsive desktop/tablet/mobile layouts.
+- Reduced-motion mode for accessibility.
+
+IMPLEMENTATION NOTES
+The portfolio closely recreates the reference's design logic and interaction style while using original code, Prajwal's resume content, supplied portrait and distinct imagery. No proprietary copy, source code, logos or visual assets from the reference site are included.
