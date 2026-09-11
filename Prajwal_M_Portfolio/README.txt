@@ -13,5 +13,4 @@ prajwal_M_Portfolio/
 │   ├── ai-lab.jpg             Project visual
 │   └── night-studio.jpg       Project visual
 ├── Prajwal_M_Resume.docx      Downloadable résumé
-├── ANALYSIS.txt               Reference-site analysis
 └── README.txt                 This guide
