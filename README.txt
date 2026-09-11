@@ -13,6 +13,6 @@ prajwal-portfolio/
 │   ├── ai-lab.jpg             Project visual
 │   └── night-studio.jpg       Project visual
 ├── Prajwal_M_Resume.docx      Downloadable resume
-└── README.txt                 This guide
+└── README.txt                 Guide
 
 
